@@ -28,4 +28,6 @@ public class MainActivity extends AppCompatActivity {
     public void onBtnChangeColorClick(View view){
         tvHello.setTextColor(Color.RED);
     }
+
+    // Unnecessary code for revert testing
 }
